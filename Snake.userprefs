@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="361" Column="2" />
+      <File FileName="Assets\Plugins\My Scripts\TouchManager.cs" Line="99" Column="3" />
+      <File FileName="Assets\Plugins\TouchKit\Recognizers\TKAnyTouchRecognizer.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\OnTapLaunchScene.cs" Line="30" Column="3" />
+      <File FileName="Assets\Plugins\TouchKit\TouchKit.cs" Line="124" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
